@@ -10,10 +10,6 @@ Aplicativo que salva e recupera um texto em um arquivo no **armazenamento intern
 
 Exercício aplicado em sala de aula, usado como prática guiada com os alunos.
 
-## Versão em Java
-
-Esta mesma aplicação também foi desenvolvida em **Java**: [AppArmazenamentoInternoJava](https://github.com/fabcurvello/AppArmazenamentoInternoJava). Comparar as duas versões lado a lado ajuda a entender as diferenças de sintaxe entre Java e Kotlin no Android.
-
 ## O que o app faz
 
 - Campo de texto para o usuário digitar um texto.
@@ -50,7 +46,6 @@ Outros repositórios de aula com o mesmo tema:
 - [AppArmazenamentoInternoAnimaUNA](https://github.com/fabcurvello/AppArmazenamentoInternoAnimaUNA)
 - [AppArmazenamentoInternoJavaAndroid](https://github.com/fabcurvello/AppArmazenamentoInternoJavaAndroid)
 - [AppArmazenamentoInternoAnima](https://github.com/fabcurvello/AppArmazenamentoInternoAnima)
-- [AppArmazenamentoInternoJava](https://github.com/fabcurvello/AppArmazenamentoInternoJava)
 
 ## Autor
 
